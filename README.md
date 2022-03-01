@@ -1,10 +1,4 @@
 # Java-training-material
 Programming Fundamental Code Samples
-Data types
-Operators
-Conditional Statement
-Control Statements
-static 
-methods 
-class and object
-core java
+day 8
+Encapsulation and Interface Methods Collections Recap
