@@ -71,4 +71,5 @@ trim()  - remove the whitespaces before or after the data
 # What is array? how the data is stored in array?
  Array is collection of same datatype elemets in a sequential memory address.
  The idea is to store multiple items of the same type together.
- 
+ # How do you iterate array values?
+  To Iterate the array values form a loop with loop contarint
