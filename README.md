@@ -9,11 +9,11 @@ The access modifiers in Java specifies the accessibility or scope of a field, me
 A variable is a container which holds the value while the Java program is executed. A variable is assigned with a data type.
 Variable is a name of memory location. There are three types of variables in java: local, instance and static.
 # What are the datatypes in Java ?
- Data type is the specification of type  and Size of an variable ,Which accepts the Data
+ Data type is the specification of type  and size of an variable ,Which accepts the Data
 There are two types of data types in Java: primitive and non-primitive.
 Primitive Data types - provide only type and size of the data can be assigned to it.
 Primitive data types - includes byte, short, int, long, float, double, boolean and char
-Non Premitive Data types - such as String, Arrays and Classes
+Non Primitive Data types - such as String, Arrays and Classes
 # Define String
  A String variable contains a collection of characters surrounded by double quotes.
  A String in Java is actually an object, which contain methods that can perform certain operations on strings.
